@@ -6,5 +6,3 @@ Website will consist of sections:
 => Portfolio
 => Contact
 
-
-We have to add new things in the project.
