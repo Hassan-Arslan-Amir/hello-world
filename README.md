@@ -5,3 +5,6 @@ Website will consist of sections:
 => Skills
 => Portfolio
 => Contact
+
+
+We have to add new things in the project.
