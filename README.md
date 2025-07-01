@@ -5,4 +5,4 @@ Website will consist of sections:
 => Skills
 => Portfolio
 => Contact
-
+=> Also added contact icons.
